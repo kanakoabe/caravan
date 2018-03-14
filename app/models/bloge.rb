@@ -1,0 +1,2 @@
+class Bloge < ApplicationRecord
+end
